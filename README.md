@@ -18,6 +18,7 @@ They are designed to be cloned into a subdirectory of your multi-workspace base 
     |  |  |- function-git-prompt            (tweaked version of the classic git-prompt.sh; needs to be sourced in .bashrc)
     |  |  |- get-repo-base-path             (get the absolute multi-workspace path)
     |  |  |- set-github-user                (set user.name and user.email to be correct for github)
+    |  |  |- show-my-ip                     (show my public IP address)
     |  |  `- source-auto-gopath             (source the correct GOPATH for a go project; invoke as ". source-go-path")
     |  |- other projects
 
